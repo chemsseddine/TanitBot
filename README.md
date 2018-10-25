@@ -10,7 +10,7 @@ Bot Cycle is configured with ``--cycle`` argument in seconds
 
 OR
 
-``pip install pandas, beautifulsoup4``
+``pip install pandas beautifulsoup4``
 
 ## Usage 
 

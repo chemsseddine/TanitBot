@@ -9,6 +9,7 @@ import pandas as pd
 
 
 
+# Testing Jenkins
 def clean_date(date):
     return ''.join([i for i in date if i not in ('\r\n\t ')])
 
